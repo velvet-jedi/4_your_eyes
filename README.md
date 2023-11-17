@@ -8,14 +8,14 @@ Ensure the following dependencies are installed before using the script:
 
 - **redshift**: Redshift adjusts the color temperature of your screen based on your surroundings. If not installed, run the following command:
 
-  ```bash
+  ```
   sudo apt-get install redshift
-
+  ```
 - **xrandr**: Check if xrandr is installed by running:
 
   ```
   man xrandr
-
+  ```
 
 ## Installation and Usage
 Clone the repository:
