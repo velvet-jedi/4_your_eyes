@@ -19,7 +19,7 @@ man xrandr
 ## Installation and usage
 
 
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/your-username/your-repository.git](https://github.com/velvet-jedi/4_your_eyes.git
+cd 4_your_eyes.git
 chmod +x kindle_eyes.sh
 ./kindle_eyes.sh
