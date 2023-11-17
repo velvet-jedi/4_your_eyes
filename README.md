@@ -13,19 +13,22 @@ Ensure the following dependencies are installed before using the script:
 
 - **xrandr**: Check if xrandr is installed by running:
 
-  ```bash
+  ```
   man xrandr
 
 
 ## Installation and Usage
 Clone the repository:
-git clone https://github.com/velvet-jedi/4_your_eyes.git
+
+  ```
+  git clone https://github.com/velvet-jedi/4_your_eyes.git
+  ```
 
 Navigate to the project directory:
-cd 4_your_eyes
+```cd 4_your_eyes```
 
 Make the script executable:
-chmod +x kindle_eyes.sh
+```chmod +x kindle_eyes.sh```
 
 Run the script:
-./kindle_eyes.sh
+```./kindle_eyes.sh```
