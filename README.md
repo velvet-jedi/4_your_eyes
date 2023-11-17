@@ -1,25 +1,31 @@
 # 4_your_eyes
 
-This script uses an xrandr command along with another redshift command to give your display the best paper-like feel.
+This script utilizes xrandr and redshift commands to provide a paper-like feel to your display, aiming to reduce eye strain.
 
 ## Requirements
 
-List any software, libraries, or dependencies that are required to run or contribute to the project.
+Ensure the following dependencies are installed before using the script:
 
-- redshift
-Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-If not installed, run:
-apt-get install redshift
+- **redshift**: Redshift adjusts the color temperature of your screen based on your surroundings. If not installed, run the following command:
 
-- Requirement 2
-- xrandr
-check by running:
-man xrandr
+  ```bash
+  sudo apt-get install redshift
 
-## Installation and usage
+- **xrandr**: Check if xrandr is installed by running:
+
+  ```bash
+  man xrandr
 
 
-git clone https://github.com/your-username/your-repository.git](https://github.com/velvet-jedi/4_your_eyes.git
-cd 4_your_eyes.git
+## Installation and Usage
+Clone the repository:
+git clone https://github.com/velvet-jedi/4_your_eyes.git
+
+Navigate to the project directory:
+cd 4_your_eyes
+
+Make the script executable:
 chmod +x kindle_eyes.sh
+
+Run the script:
 ./kindle_eyes.sh
